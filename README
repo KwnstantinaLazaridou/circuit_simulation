@@ -1,0 +1,7 @@
+Circuit simulation project
+
+This project parses circuits (testbench.txt) and stores information in lists. From the lists  it composes matrixes and solves matrix systems Ax = B with diferrent methods.
+C_sparse is a library of storing efficiently sparse matrixes, in order not to occupy large memory for large circuits with too few connections.
+
+Therefore, in this project there is code for both c_sparse matrixes and ordinary matrixes, as well as solution of the system Ax = B for both of them. 
+
